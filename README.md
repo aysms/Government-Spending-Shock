@@ -3,7 +3,7 @@ This is one of my class projects regarding government spending shocks. This proj
 Then, she raised a Defense News Identification method. In this project, I explored the consistency and validity of Ramey’s two narrative identification methods by replicating and extending Ramey (2011) using data from Ramey and Zubairy (2018) and extended the narrative identifier from war dates to national defense news. 
 My results show the responses from the Defense News Identification method have later peaks than those from the standard VAR identification method, which is consistent with the results in Ramey (2011).
 
-The Stata code is in Government_Spending_Shock.do, the resulting graphs are in Government_Spending_Shock.pdf, and the data file is project_updated.dta.
+The Stata code is in Government_Spending_Shock.do, the resulting graphs are in Government-Spending-Shocks-Output.pdf, and the data file is project_updated.dta.
 
 Reference:
 
