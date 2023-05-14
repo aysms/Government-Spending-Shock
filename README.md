@@ -6,6 +6,7 @@ My results show the responses from the Defense News Identification method have l
 The Stata code is in Government_Spending_Shock.do, the resulting graphs are in Government_Spending_Shock.pdf, and the data file is project_updated.dta.
 
 Reference:
+
 Ramey, V. A. (2011). Identifying government spending shocks: It's all in the timing. The Quarterly Journal of Economics, 126(1), 1-50. 
 
 Ramey, V. A., & Zubairy, S. (2018). Government spending multipliers in good times and in bad: evidence from US historical data. Journal of political economy, 126(2), 850-901.
